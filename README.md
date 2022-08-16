@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mchlxy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Git and JavaScript
+- 🌱 I’m currently learning Git and JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Visit my website at itsmike.netlify.app
 
