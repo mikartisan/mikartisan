@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Git, Python and Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Visit my website at itsmike.netlify.app
+- 📫 How to reach me?
 
 <!---
 mchlxy/mchlxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
