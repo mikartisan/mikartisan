@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mchlxy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Git, ReactJS, Python and Machine Learning
+- 🌱 I’m currently learning Git, ReactJS, Laravel and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?
 
