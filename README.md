@@ -1,4 +1,4 @@
-##### 👋 Hi, I’m Michael
+### 👋 Hi, I’m Michael
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Git, ReactJS, Laravel and Python.
 - 
