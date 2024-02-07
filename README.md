@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Michael
+# 👋 Hi, I'm Michael
 
 ### 💫 About Me:
 - 👀 I’m interested in Web Development
