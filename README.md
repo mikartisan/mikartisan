@@ -1,5 +1,8 @@
-## 💫 About Me:
-- 👀 I’m interested in Web Development<br> - 🌱 I’m currently learning Git, ReactJS, Laravel and Python.
+## 👋 Hi, I'm Michael
+
+### 💫 About Me:
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Git, ReactJS, Laravel and Python.
 
 
 ### 🌐 Socials:
