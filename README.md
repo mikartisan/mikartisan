@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Michael
 
 ### 💫 About Me:
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web/Software Development
 - 🌱 I’m currently learning Blazor
 
 ### 💻 Tech Stack:
