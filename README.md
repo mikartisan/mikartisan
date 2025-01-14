@@ -11,8 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikartisan&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikartisan&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mikartisan&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<!-- ### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mikartisan&theme=dracula&no-frame=false&no-bg=true&margin-w=4) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mikartisan&icon=0&color=11)](https://visitcount.itsvg.in)
