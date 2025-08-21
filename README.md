@@ -6,7 +6,7 @@
   "job": "Software Developer",
   "country": "Philippines",
   "interest":  "I’m interested in Software Development"
-  "learning: "I'm currently learning Blazor, React, and TypeScript"
+  "learning": "I'm currently learning Blazor, React, and TypeScript"
 }
 ```
 ### 💻 Tech Stack:
