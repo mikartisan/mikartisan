@@ -22,6 +22,8 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikartisan&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+https://github-readme-stats.vercel.app/api?username=mikartisan
+
 <!-- ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mikartisan&theme=dracula&no-frame=false&no-bg=true&margin-w=4) -->
 
