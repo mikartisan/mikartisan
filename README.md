@@ -3,7 +3,7 @@
 ### 💫 About Me:
 ```json
 {
-  "job": "Assistant Junior Programmer",
+  "job": "Junior Programmer I",
   "country": "Philippines",
   "interest":  "I’m interested in Software Development"
   "learning": "I'm currently learning Blazor, React, and TypeScript"
