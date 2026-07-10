@@ -5,7 +5,7 @@
 {
   "job": "Full-Stack Developer",
   "country": "Philippines",
-  "interest":  "I’m interested in Software Development and Cyber Security"
+  "interest":  "I’m interested in Software Development and Cybersecurity"
   "learning": "I'm currently learning AngularJS, React, and TypeScript"
 }
 ```
