@@ -3,10 +3,10 @@
 ### 💫 About Me:
 ```json
 {
-  "job": "Junior Programmer I",
+  "job": "Full-Stack Developer",
   "country": "Philippines",
-  "interest":  "I’m interested in Software Development"
-  "learning": "I'm currently learning Blazor, React, and TypeScript"
+  "interest":  "I’m interested in Software Development and Cyber Security"
+  "learning": "I'm currently learning AngularJS, React, and TypeScript"
 }
 ```
 
